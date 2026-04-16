@@ -402,3 +402,4 @@ dwtest(model)
 # Durbin watson test statistics
 DW_stat <- sum(diff(e)^2)/sum(e^2)
 DW_stat
+
